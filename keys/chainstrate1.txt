@@ -1,0 +1,15 @@
+AURA
+Secret phrase:       radar point text gun favorite inform sing hint judge spell brave antenna
+  Secret seed:       0x46cfc8e2d1c6de26dcaefce5f866316693916515be9dda9ada7db6baf285a78a
+  Public key (hex):  0xec07138c71dce49a66c0f45360d56d5206c3db5138da9e1b32ebda20f209175d
+  Account ID:        0xec07138c71dce49a66c0f45360d56d5206c3db5138da9e1b32ebda20f209175d
+  Public key (SS58): 5HQBG38H7MX5r1iG4j3rDG8rjJQ6Pc5RRnz4RCcW9bXiEGgj
+  SS58 Address:      5HQBG38H7MX5r1iG4j3rDG8rjJQ6Pc5RRnz4RCcW9bXiEGgj
+
+GRANDPA
+Secret phrase:       radar point text gun favorite inform sing hint judge spell brave antenna
+  Secret seed:       0x46cfc8e2d1c6de26dcaefce5f866316693916515be9dda9ada7db6baf285a78a
+  Public key (hex):  0xd1a16a0aba20bf35a29f46c2c7967ea01d819067995c1a0624f0a6fa41099d9b
+  Account ID:        0xd1a16a0aba20bf35a29f46c2c7967ea01d819067995c1a0624f0a6fa41099d9b
+  Public key (SS58): 5GoZpEGL2PfqheYoRkqVTrEpGUHuVGuwiqavMRVx4dpjKp1b
+  SS58 Address:      5GoZpEGL2PfqheYoRkqVTrEpGUHuVGuwiqavMRVx4dpjKp1b

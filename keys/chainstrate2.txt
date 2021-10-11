@@ -1,0 +1,15 @@
+Secret phrase:       resource feature witness rebel spin bronze voyage shock stadium cute next cake
+  Secret seed:       0xa85f64cb85984a04c56f7731b5f019d7a75cd4ca677f59c946cb9fc74cca099a
+  Public key (hex):  0x267af54873a3764f51082c9579b1f5449d855364f5c38f69c4f8df94ee4ff71d
+  Account ID:        0x267af54873a3764f51082c9579b1f5449d855364f5c38f69c4f8df94ee4ff71d
+  Public key (SS58): 5CwACj4a7MhCPEVvXPPSCjRQbpSvo2JaCaboCXmpyYsUjEtw
+  SS58 Address:      5CwACj4a7MhCPEVvXPPSCjRQbpSvo2JaCaboCXmpyYsUjEtw
+
+Secret phrase:       resource feature witness rebel spin bronze voyage shock stadium cute next cake
+  Secret seed:       0xa85f64cb85984a04c56f7731b5f019d7a75cd4ca677f59c946cb9fc74cca099a
+  Public key (hex):  0xbf6099dfb7b1f9680664018feafa61d0f4192581b75aa357a3a13903764e68d6
+  Account ID:        0xbf6099dfb7b1f9680664018feafa61d0f4192581b75aa357a3a13903764e68d6
+  Public key (SS58): 5GPdhXsvNm81zDhAz1sbYGeUxHC6DAuAWMWDRkASNkYz89CG
+  SS58 Address:      5GPdhXsvNm81zDhAz1sbYGeUxHC6DAuAWMWDRkASNkYz89CG
+
+

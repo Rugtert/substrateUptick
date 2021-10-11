@@ -1,0 +1,11 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "aura",
+      "radar point text gun favorite inform sing hint judge spell brave antenna",
+      "0xec07138c71dce49a66c0f45360d56d5206c3db5138da9e1b32ebda20f209175d"
+    ]
+  }
+  

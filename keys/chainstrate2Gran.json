@@ -1,0 +1,11 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "gran",
+      "resource feature witness rebel spin bronze voyage shock stadium cute next cake",
+      "0xbf6099dfb7b1f9680664018feafa61d0f4192581b75aa357a3a13903764e68d6"
+    ]
+  }
+  

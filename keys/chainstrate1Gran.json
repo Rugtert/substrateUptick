@@ -1,0 +1,11 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "gran",
+      "radar point text gun favorite inform sing hint judge spell brave antenna",
+      "0xd1a16a0aba20bf35a29f46c2c7967ea01d819067995c1a0624f0a6fa41099d9b"
+    ]
+  }
+  
